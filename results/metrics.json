@@ -1,0 +1,9 @@
+{
+  "selected_epoch": 30,
+  "test_reconstruction": 247.00006103515625,
+  "test_kl": 134.67263793945312,
+  "test_elbo_loss": 381.6727294921875,
+  "test_mse_mu": 0.016106782481074333,
+  "test_psnr_mu": 23.950511976669162,
+  "train_minutes": 2.663311743736267
+}

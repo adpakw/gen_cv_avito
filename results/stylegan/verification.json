@@ -1,0 +1,39 @@
+{
+  "executed_epochs": 30,
+  "global_step": 38130,
+  "generator_reload": true,
+  "discriminator_reload": true,
+  "tensorboard_graph": true,
+  "tensorboard_images": [
+    "samples/fixed_z_ema",
+    "final/gallery",
+    "final/interpolation_z",
+    "final/interpolation_w",
+    "final/style_mixing_pair",
+    "final/style_mixing_matrix",
+    "final/style_mixing_cutoffs"
+  ],
+  "tensorboard_scalars": [
+    "step/g_loss",
+    "step/d_loss",
+    "step/r1",
+    "epoch/g_loss",
+    "epoch/d_loss",
+    "epoch/r1",
+    "epoch/train_real_accuracy",
+    "epoch/fake_accuracy",
+    "epoch/valid_real_accuracy",
+    "epoch/sample_pixel_std",
+    "epoch/seconds",
+    "epoch/global_step",
+    "epoch/seen_images"
+  ],
+  "generated_pngs": 64,
+  "style_input_gradients_verified": true,
+  "style_mixing_endpoints_verified": true,
+  "executed_code_cells": 9,
+  "error_outputs": 0,
+  "inference_float32_without_tf32": true,
+  "own_python_files_created": false,
+  "epochs_logged": 30
+}

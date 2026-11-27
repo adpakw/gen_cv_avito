@@ -1,0 +1,35 @@
+{
+  "executed_code_cells": 9,
+  "error_outputs": 0,
+  "epochs": 30,
+  "training_steps": 19080,
+  "tensorboard_graph": true,
+  "tensorboard_scalar_tags": [
+    "train_step/total",
+    "train_step/reconstruction",
+    "train_step/kl",
+    "epoch/beta",
+    "epoch/train_total",
+    "epoch/train_reconstruction",
+    "epoch/train_kl",
+    "epoch/valid_total",
+    "epoch/valid_reconstruction",
+    "epoch/valid_kl",
+    "epoch/valid_mean_mse",
+    "epoch/lr",
+    "epoch/seconds",
+    "emotion/direction_norm"
+  ],
+  "tensorboard_image_tags": [
+    "images/reconstruction",
+    "images/prior_samples",
+    "test/original",
+    "test/reconstructed_mu",
+    "emotion/original",
+    "emotion/baseline_mu",
+    "emotion/edited",
+    "emotion/alpha_sweep"
+  ],
+  "checkpoint_reload_verified": true,
+  "own_python_files_created": false
+}

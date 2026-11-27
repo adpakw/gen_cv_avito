@@ -1,0 +1,16 @@
+{
+  "image_size": 64,
+  "crop_size": 140,
+  "latent_dim": 128,
+  "epochs": 30,
+  "batch_size": 256,
+  "lr": 0.0002,
+  "beta": 1.0,
+  "warmup_epochs": 5,
+  "seed": 42,
+  "log_dir": "runs/vae_20261126_024037",
+  "torch_version": "2.8.0+cu126",
+  "train_size": 162770,
+  "valid_size": 19867,
+  "test_size": 19962
+}

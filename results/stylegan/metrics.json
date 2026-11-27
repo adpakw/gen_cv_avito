@@ -1,0 +1,18 @@
+{
+  "generated_pair_rms": 0.35789334774017334,
+  "real_pair_rms": 0.3315753936767578,
+  "interpolation_z_adjacent_rms": [
+    0.204212948679924,
+    0.20809321105480194,
+    0.333804190158844,
+    0.3599693179130554,
+    0.23708829283714294,
+    0.18663348257541656,
+    0.10969211906194687
+  ],
+  "epochs": 30,
+  "global_step": 38130,
+  "seen_images": 4880640,
+  "training_minutes": 37.71723449230194,
+  "diagnostic_note": "Pixel RMS is a diversity diagnostic, not FID and not proof against mode collapse."
+}
